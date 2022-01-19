@@ -17,7 +17,7 @@ Algunos lenguajes me interesaron bastante y de los cuales traté de especializar
 - **Flutter:** si ya contamos con lenguaje nativo para Android y lenguaje nativo para iOS tambien es bueno orientarse a algun framework que facilite el desarrollo de apps moviles con un solo lenguaje y que tenga visión a mediano o largo plazo y este framework es uno de ellos.
 
 # 
-### Skills with:
+### Languages and Tools:
 
 <img src="https://miro.medium.com/max/360/1*e3UJ-N8TPw8zGUn9cYzaJg.png" width="100" height="100" title="Kotlin" style="padding:20px;"><img src="https://images.squarespace-cdn.com/content/v1/558def25e4b0fc259f066636/1533603278905-AVZ8RD2X0YCPY0N3VGRZ/Swift_logo.png?format=1000w" width="100" height="100"  title="Swift" style="padding:20px;"><img src="https://iconape.com/wp-content/files/yb/61798/svg/flutter-logo.svg" width="100" height="100"  title="Flutter" style="padding:20px;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png" width="100" height="100"  title="Vue.js" style="padding:20px;"><img src="https://i.pinimg.com/originals/fd/0b/02/fd0b02a74400e2c1a848bf3b4b8c0413.png" width="100" height="100"  title="MaterializeCSS" style="padding:20px;"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="100" height="100"  title="Java" style="padding:20px;"><img src="https://www.designbust.com/download/168/png/laravel_icon512.png" width="100" height="100"  title="Laravel" style="padding:20px;">
 
@@ -61,5 +61,8 @@ Espera algunos proyectos publicos sobre temas de algunos lenguajes, cuento con v
 <img src="https://toppng.com/public/uploads/thumbnail/subscribe-to-our-mailing-list-icono-de-instagram-en-blanco-11562863465psekvjyxmv.png" width="20" height="20"  title="Instragram"> [@lou_sizzo](http://instagram.com/lou_sizzo "@lou_sizzo")
 
 <img src="https://www.pikpng.com/pngl/b/31-313145_twitter-png-white-white-twitter-logo-no-background.png" width="20" height="20"  title="Twitter"> [@lord_sizzo](https://twitter.com/lord_sizzo "@lord_sizzo")
+
+![](https://visitor-badge.laobi.icu/badge?page_id=lordsizzo.lordsizzo)
+[![Github](https://img.shields.io/github/followers/lordsizzo?label=Follow&style=social)](https://github.com/lordsizzo)
 
 
