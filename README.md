@@ -2,7 +2,7 @@
 ## _"Si se puede soñar, se puede programar"_
 ### Algo breve
 Que tal colegas!, soy Luis Sizzo y soy Ingeniero en Sistemas Computacionales orientado
-a la programación y desarrollo de software por mas de 5 años. Desde que tenia 14 años me interese en las computadoras, su funcionalidad y su estructura, cuando tuve oportunidad entre a la carrera de Ingenieria en Sistemas Computacionales en donde aprendí gran parte mucho sobre lenguajes orientados a objetos y al encontrar las maravillas de los lenguajes de programación, me enfoqué en aprender los mas que pudiera.
+a la programación y desarrollo de software por mas de 6 años. Desde que tenia 14 años me interese en las computadoras, su funcionalidad y su estructura, cuando tuve oportunidad entre a la carrera de Ingenieria en Sistemas Computacionales en donde aprendí gran parte mucho sobre lenguajes orientados a objetos y al encontrar las maravillas de los lenguajes de programación, me enfoqué en aprender los mas que pudiera.
 
 ### El conocimiento es poder
 
