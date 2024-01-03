@@ -14,6 +14,7 @@ Algunos lenguajes me interesaron bastante y de los cuales traté de especializar
 - **Kotlin:** Entendiendo que Java llegará a volverse obsoleto ante Android, el aprendizaje nunca descansa, en este sentido Kotlin es ahora el lenguaje oficial de Google para Android asi que forma parte de mi catalogo con 4 años de experiencia.
 - **Swift:** Si tenemos Android, debemos tener iOS y sus O.S. de Apple en el que nos orientamos mas para el desarrollo de movil, asi mismo podemos utilizar su programacion declarativa llamada SwitfUI.
 - **Flutter:** Si ya contamos con lenguaje nativo para Android y lenguaje nativo para iOS tambien es bueno orientarse a algun framework que facilite el desarrollo de apps moviles con un solo lenguaje y que tenga visión a mediano o largo plazo y este framework es uno de ellos.
+- **HTML:** Un gran porcentaje de los sitios web contienen una estructura, esta estructura es creada con HTMl ya que forma parte del esqueleto del sitio, esto nos ayuda a formar estructuras y alinear componentes visibles acorde al tamaño de la pantalla.
 
 # 
 ### Lenguajes y herramientas:
@@ -87,6 +88,7 @@ Some languages ​​interested me a lot and of which I tried to specialize in s
 - **Kotlin:** Understanding that Java will become obsolete before Android, learning never rests, in this sense Kotlin is now Google's official language for Android so it is part of my catalog with 4 years of experience.
 - **Swift:** If we have Android, we must have iOS and its OS. from Apple in which we focus more on mobile development, we can also use its declarative programming called SwitfUI.
 - **Flutter:** If we already have a native language for Android and a native language for iOS, it is also good to focus on a framework that facilitates the development of mobile apps with a single language and that has a medium or long-term vision and this framework is one of them.
+- **HTML:** A large percentage of websites contain a structure, this structure is created with HTMl since it is part of the skeleton of the site, this helps us form structures and align visible components according to the size of the screen.
 
 # 
 ### Languages and Tools:
