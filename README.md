@@ -1,7 +1,7 @@
 # Lou Sizzo Devs
 ## _"Si se puede soñar, se puede programar"_
 ### Algo breve
-Que tal colegas!, soy Luis Sizzo y soy Ingeniero en Sistemas Computacionales orientado a la programación y desarrollo de software por más de 8 años. Desde que tenía 14 años me interese en las computadoras, su funcionalidad y su estructura, cuando tuve oportunidad entre a la carrera de Ingeniería en Sistemas Computacionales donde aprendí gran parte mucho sobre lenguajes orientados a objetos y al encontrar las maravillas de los lenguajes de programación, me enfoqué en aprender los más que pudiera.
+Que tal colegas!, soy Luis Sizzo y soy Ingeniero en Sistemas Computacionales orientado a la programación y desarrollo de software por más de 9 años. Desde que tenía 14 años me interese en las computadoras, su funcionalidad y su estructura, cuando tuve oportunidad entre a la carrera de Ingeniería en Sistemas Computacionales donde aprendí gran parte mucho sobre lenguajes orientados a objetos y al encontrar las maravillas de los lenguajes de programación, me enfoqué en aprender los más que pudiera.
 
 ### El conocimiento es poder
 
@@ -76,7 +76,7 @@ Espera algunos proyectos públicos sobre temas de algunos lenguajes, cuento con 
 ## _"If you can dream it, it can be programmed"_
 ### Brief description
 What's up colleagues! I'm Luis Sizzo and I'm a Computer Systems Engineer focused on
-programming and software development for more than 8 years. Since I was 14 years old I was interested in computers, their functionality and their structure, when I had the opportunity to study Computer Systems Engineering where I learned a lot about object-oriented languages ​​and finding the wonders of programming languages, I focused on learning as much as I could.
+programming and software development for more than 9 years. Since I was 14 years old I was interested in computers, their functionality and their structure, when I had the opportunity to study Computer Systems Engineering where I learned a lot about object-oriented languages ​​and finding the wonders of programming languages, I focused on learning as much as I could.
 
 ### Knowledge is power
 
