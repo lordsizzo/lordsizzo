@@ -55,12 +55,13 @@ Espera algunos proyectos públicos sobre temas de algunos lenguajes, cuento con 
 
 # 
 ### Contacto
+<img src="https://www.pngarts.com/files/3/URL-Chain-Link-PNG-Image-Background.png" width="20" height="20" style="background-color: red;"  title="Twitter"/> [@mi web](https://luissizzo.com.mx/ "@mi_web")
 
-<img src="https://www.pinclipart.com/picdir/big/150-1504080_facebook-white-facebook-white-icon-png-2018-clipart.png" width="20" height="20"  title="Facebook"> [@lou.sizzo.development](https://www.facebook.com/lou.sizzo.development "@lou.sizzo.development")
+<img src="https://images.vexels.com/media/users/3/137253/isolated/preview/90dd9f12fdd1eefb8c8976903944c026-facebook-icon-logo.png" width="20" height="20"  title="Facebook"> [@lou.sizzo.development](https://www.facebook.com/lou.sizzo.development "@lou.sizzo.development")
 
-<img src="https://toppng.com/public/uploads/thumbnail/subscribe-to-our-mailing-list-icono-de-instagram-en-blanco-11562863465psekvjyxmv.png" width="20" height="20"  title="Instragram"> [@lou_sizzo](http://instagram.com/lou_sizzo "@lou_sizzo")
+<img src="https://dreamfoundry.org/wp-content/uploads/2018/12/instagram-logo-png-transparent-background.png" width="20" height="20"  title="Instragram"> [@lou_sizzo](http://instagram.com/lou_sizzo "@lou_sizzo")
 
-<img src="https://www.pikpng.com/pngl/b/31-313145_twitter-png-white-white-twitter-logo-no-background.png" width="20" height="20"  title="Twitter"> [@lord_sizzo](https://twitter.com/lord_sizzo "@lord_sizzo")
+<img src="https://static.vecteezy.com/system/resources/thumbnails/031/737/206/small/twitter-new-logo-twitter-icons-new-twitter-logo-x-2023-x-social-media-icon-free-png.png" width="20" height="20" style="background-color: red;"  title="Twitter"/> [@lord_sizzo](https://twitter.com/lord_sizzo "@lord_sizzo")
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=lordsizzo.lordsizzo)
 [![Github](https://img.shields.io/github/followers/lordsizzo?label=Follow&style=social)](https://github.com/lordsizzo)
@@ -130,11 +131,13 @@ Expect some public projects on topics of some languages, I have several private 
 # 
 ### Contact
 
-<img src="https://www.pinclipart.com/picdir/big/150-1504080_facebook-white-facebook-white-icon-png-2018-clipart.png" width="20" height="20"  title="Facebook"> [@lou.sizzo.development](https://www.facebook.com/lou.sizzo.development "@lou.sizzo.development")
+<img src="https://www.pngarts.com/files/3/URL-Chain-Link-PNG-Image-Background.png" width="20" height="20" style="background-color: red;"  title="Twitter"/> [@my website](https://luissizzo.com.mx/ "@my_website")
 
-<img src="https://toppng.com/public/uploads/thumbnail/subscribe-to-our-mailing-list-icono-de-instagram-en-blanco-11562863465psekvjyxmv.png" width="20" height="20"  title="Instragram"> [@lou_sizzo](http://instagram.com/lou_sizzo "@lou_sizzo")
+<img src="https://images.vexels.com/media/users/3/137253/isolated/preview/90dd9f12fdd1eefb8c8976903944c026-facebook-icon-logo.png" width="20" height="20"  title="Facebook"> [@lou.sizzo.development](https://www.facebook.com/lou.sizzo.development "@lou.sizzo.development")
 
-<img src="https://www.pikpng.com/pngl/b/31-313145_twitter-png-white-white-twitter-logo-no-background.png" width="20" height="20"  title="Twitter"> [@lord_sizzo](https://twitter.com/lord_sizzo "@lord_sizzo")
+<img src="https://dreamfoundry.org/wp-content/uploads/2018/12/instagram-logo-png-transparent-background.png" width="20" height="20"  title="Instragram"> [@lou_sizzo](http://instagram.com/lou_sizzo "@lou_sizzo")
+
+<img src="https://static.vecteezy.com/system/resources/thumbnails/031/737/206/small/twitter-new-logo-twitter-icons-new-twitter-logo-x-2023-x-social-media-icon-free-png.png" width="20" height="20" style="background-color: red;"  title="Twitter"/> [@lord_sizzo](https://twitter.com/lord_sizzo "@lord_sizzo")
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=lordsizzo.lordsizzo)
 [![Github](https://img.shields.io/github/followers/lordsizzo?label=Follow&style=social)](https://github.com/lordsizzo)
