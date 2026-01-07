@@ -55,7 +55,7 @@ Espera algunos proyectos públicos sobre temas de algunos lenguajes, cuento con 
 
 # 
 ### Contacto
-<img src="https://www.pngarts.com/files/3/URL-Chain-Link-PNG-Image-Background.png" width="20" height="20" style="background-color: red;"  title="Twitter"/> [@mi web](https://luissizzo.com.mx/ "@mi_web")
+<img src="https://www.pngarts.com/files/3/URL-Chain-Link-PNG-Image-Background.png" width="20" height="20" style="background-color: red;"  title="Twitter"/> [@mi web](https://luissizzo.com/ "@mi_web")
 
 <img src="https://images.vexels.com/media/users/3/137253/isolated/preview/90dd9f12fdd1eefb8c8976903944c026-facebook-icon-logo.png" width="20" height="20"  title="Facebook"> [@lou.sizzo.development](https://www.facebook.com/lou.sizzo.development "@lou.sizzo.development")
 
@@ -131,7 +131,7 @@ Expect some public projects on topics of some languages, I have several private 
 # 
 ### Contact
 
-<img src="https://www.pngarts.com/files/3/URL-Chain-Link-PNG-Image-Background.png" width="20" height="20" style="background-color: red;"  title="Twitter"/> [@my website](https://luissizzo.com.mx/ "@my_website")
+<img src="https://www.pngarts.com/files/3/URL-Chain-Link-PNG-Image-Background.png" width="20" height="20" style="background-color: red;"  title="Twitter"/> [@my website](https://luissizzo.com/ "@my_website")
 
 <img src="https://images.vexels.com/media/users/3/137253/isolated/preview/90dd9f12fdd1eefb8c8976903944c026-facebook-icon-logo.png" width="20" height="20"  title="Facebook"> [@lou.sizzo.development](https://www.facebook.com/lou.sizzo.development "@lou.sizzo.development")
 
