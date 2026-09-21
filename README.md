@@ -52,6 +52,17 @@ Espera algunos proyectos públicos sobre temas de algunos lenguajes, cuento con 
 -  SignIn Gmail
 -  Consumo de JSON GET/POST con Dio
 
+### Laravel 12+
+-  OAuth
+-  Sanctum
+-  Middlewares
+-  Protección por IP
+-  Jobs y Schedules para tareas con Cron Jobs
+-  Webhooks para sistemas de pago como GooglePlay, AppStore y PayPal
+-  API's y control de accesos
+-  SQLite en Laravel
+-  Blade y Vue.js
+-  Implementación de AWS como Cognito, IAM, etc.
 
 # 
 ### Contacto
@@ -127,6 +138,17 @@ Expect some public projects on topics of some languages, I have several private 
 -  SignIn Gmail
 -  Consuming JSON GET/POST with Dio
 
+### Laravel 12+
+- OAuth
+- Sanctum
+- Middleware
+- IP-based protection
+- Jobs and schedules for Cron-based tasks
+- Webhooks for payment systems such as Google Play, App Store, and PayPal
+- APIs and access control
+- SQLite in Laravel
+- Blade and Vue.js
+- AWS implementation (Cognito, IAM, etc.)
 
 # 
 ### Contact
